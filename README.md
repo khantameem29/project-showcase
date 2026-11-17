@@ -14,4 +14,4 @@ A single, self-contained page that walks through my two main projects with phone
 Download `index.html` and open it in any browser.
 
 ---
-Tameem Khan · [Portfolio](https://tameemkhan.netlify.app) · ktameem2004@gmail.com
+Tameem Khan · [Portfolio](https://khantameem29.github.io) · ktameem2004@gmail.com
